@@ -1,4 +1,6 @@
 
+import "../css/MovieCard.css";
+
 function Moviecard({movie}){
 
     function onFavClick(){
